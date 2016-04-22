@@ -1,0 +1,16 @@
+127.0.0.1 - - [21/Apr/2016:01:30:22 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 101
+127.0.0.1 - - [21/Apr/2016:01:30:46 -0700] "GET /Restaurant/noodles?vegetalbe=apple HTTP/1.1" 200 58 http-bio-8080-exec-3 2
+127.0.0.1 - - [21/Apr/2016:01:31:05 -0700] "GET /Restaurant/noodles?vegetalbe=apple HTTP/1.1" 200 58 http-bio-8080-exec-5 3
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET /Restaurant/noodles?vegetalbe=apple HTTP/1.1" 200 58 http-bio-8080-exec-7 199
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-10 0
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-8 1
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-9 0
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-2 1
+127.0.0.1 - - [21/Apr/2016:03:58:52 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 269
+127.0.0.1 - - [21/Apr/2016:04:02:50 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 133
+127.0.0.1 - - [21/Apr/2016:04:03:14 -0700] "GET /Restaurant/noodles?vegetable=apple HTTP/1.1" 200 57 http-bio-8080-exec-3 2
+127.0.0.1 - - [21/Apr/2016:04:45:49 -0700] "GET /Restaurant/noodles?vegetable=apple HTTP/1.1" 200 57 http-bio-8080-exec-5 80
+127.0.0.1 - - [21/Apr/2016:04:45:49 -0700] "GET /Restaurant/noodles?vegetable=apple HTTP/1.1" 200 57 http-bio-8080-exec-6 63
+127.0.0.1 - - [21/Apr/2016:04:50:25 -0700] "GET /Restaurant/noodls HTTP/1.1" 404 985 http-bio-8080-exec-1 279
+127.0.0.1 - - [21/Apr/2016:04:50:45 -0700] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-3 8
+127.0.0.1 - - [21/Apr/2016:04:51:09 -0700] "GET /Restaurant/noodles?vegetable=apple HTTP/1.1" 200 57 http-bio-8080-exec-5 24
